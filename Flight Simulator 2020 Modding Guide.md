@@ -1,5 +1,7 @@
 # Flight Simulator 2020 Modding Guide
 
+From [playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+
 ## Installing the SDK
 
 [Reference](https://youtu.be/3K0XhAf0WYw?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
