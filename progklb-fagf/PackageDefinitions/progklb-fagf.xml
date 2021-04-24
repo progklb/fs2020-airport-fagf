@@ -1,4 +1,4 @@
-<AssetPackage Name="progklb-fagg" Version="0.1.0">
+<AssetPackage Name="progklb-fagf" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Simple Scenery</Title>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\progklb-fagg\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\progklb-fagg\</OutputDir>
+			<AssetDir>PackageDefinitions\progklb-fagf\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\progklb-fagf\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>

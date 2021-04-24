@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\progklb-fagg.xml</Package>
+		<Package>PackageDefinitions\progklb-fagf.xml</Package>
 	</Packages>
 </Project>
 
