@@ -1,10 +1,14 @@
 # Flight Simulator 2020 Modding Guide
 
-From [playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+Instructions noted from [YouTube playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+
+---
+
+![Image](./Documentation/Divider1.jpg)
 
 ## Installing the SDK
 
-[Reference](https://youtu.be/3K0XhAf0WYw?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+[*Reference*](https://youtu.be/3K0XhAf0WYw?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
 
 1. Run game.
 2. Option > General > Developers
@@ -14,9 +18,13 @@ From [playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJ
 > Download the SDK installer and run. Install it to a folder outside of the FS2020 folder. Let's call it `MSFS SDK`
 
 
+---
+
+![Image](./Documentation/Divider2.jpg)
+
 ## Creating a Project (Scenery Project)
 
-[Reference](https://youtu.be/3K0XhAf0WYw?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+[*Reference*](https://youtu.be/3K0XhAf0WYw?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
 
 ### Prepare the project
 
@@ -50,11 +58,45 @@ Load project:
    b. View > Inspector
    c. Build package
 
-## Replacing Default Scenery
+### Save
 
-[Reference](https://youtu.be/IOhnU_w3Us8?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+- Scenery Editor > Save Scenery
+- For Shape Files: Save as `PackageSources/scene/projectNameSHP`
+- For Scenery Files: Browse to `PackageSources/scene/projectNameSCN`
 
-### Polygon to Remove Default Scenery
+### Load Into Game
+
+To double check Community folder location
+
+- Tools > Virtual File System
+- Opened Watched Bases and see Community folder path
+
+Build the package
+
+- Build project
+  a. Project Editor > click project dropdown
+  b. View > Inspector
+  c. Build package
+- Copy `./Packages/projectName` folder into your Community folder
+
+---
+
+![Image](./Documentation/Divider3.jpg)
+
+## Editing Scenery
+
+[*Reference*](https://youtu.be/IOhnU_w3Us8?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+
+### Polygons
+
+**Description**
+
+Various uses:
+
+- Removal existing scenery
+- Specifying custom terrain (ground types, water, terraforming)
+
+**Usage**
 
 Either
 
@@ -72,36 +114,38 @@ Polygon now appears in Scenery Editor
 - View > Properties
 - Select desired behaviour
 
-### Placement of Objects
+---
+
+### Scenery
+
+**Description**
+
+- Removal existing scenery
+- Specifying custom terrain (ground types, water, terraforming)
+
+**Usage**
 
 - Objects view > select object type
 - Select object from  filterable list
   - "One-click placing" is useful for previewing
-
 - Scenery Editor > View > Gizom allows object adjustment
 - Scenery Editor > click on object > Duplicate creates a copy
 
-### Save
+> **Note**
+>
+> Open the objects "Properties" window to adjust snapping to ground/normal.
 
-- Scenery Editor > Save Scenery
-- For Shape Files: Save as `PackageSources/scene/projectNameSHP`
-- For Scenery Files: Browse to `PackageSources/scene/projectNameSCN`
+---
 
-### Bring Into Game
+### SimObjects
 
-To double check Community folder location
+**Description**
 
-- Tools > Virtual File System
-- Opened Watched Bases and see Community folder path
+- Place aircraft at airports.
 
-Build the package
+---
 
-- Build project
-  a. Project Editor > click project dropdown
-  b. View > Inspector
-  c. Build package
-- Copy `./Packages/projectName` folder into your Community folder
-
+![Image](./Documentation/Divider4.jpg)
 
 ## Adding User Created Scenery
 
