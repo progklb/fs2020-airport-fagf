@@ -1,10 +1,15 @@
 # Flight Simulator 2020 Modding Guide
 
-Instructions noted from [YouTube playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+References:
+
+- This YouTube [playlist](https://www.youtube.com/playlist?list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq)
+- [MSFS Custom Airports Guide](./MSFS_custom_airports_v0.3.pdf)
+- [Getting started with the SDK / Dev Mode](https://forums.flightsimulator.com/t/how-to-getting-started-with-the-sdk-dev-mode/123241/108)
+- [Guide - How to Create a New Airport](https://forums.flightsimulator.com/t/guide-how-to-create-a-new-airport-version-0-3/166902/2)
 
 ---
 
-![Image](./Documentation/Divider1.jpg)
+![Image](./Divider1.jpg)
 
 ## Installing the SDK
 
@@ -20,7 +25,7 @@ Instructions noted from [YouTube playlist](https://www.youtube.com/playlist?list
 
 ---
 
-![Image](./Documentation/Divider2.jpg)
+![Image](./Divider2.jpg)
 
 ## Creating a Project (Scenery Project)
 
@@ -81,7 +86,7 @@ Build the package
 
 ---
 
-![Image](./Documentation/Divider3.jpg)
+![Image](./Divider3.jpg)
 
 ## Editing Scenery
 
@@ -145,7 +150,7 @@ Polygon now appears in Scenery Editor
 
 ---
 
-![Image](./Documentation/Divider4.jpg)
+![Image](./Divider4.jpg)
 
 ## Adding User Created Scenery
 
