@@ -22,7 +22,6 @@ References:
 
 > Download the SDK installer and run. Install it to a folder outside of the FS2020 folder. Let's call it `MSFS SDK`
 
-
 ---
 
 ![Image](./Divider2.jpg)
@@ -123,6 +122,14 @@ Polygon now appears in Scenery Editor
 
 ### Scenery
 
+- *[Reference: Replacing Default Scenery](https://www.youtube.com/watch?v=IOhnU_w3Us8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=2)*
+- *[Reference: Adding Night Lights with Emissive Textures](https://www.youtube.com/watch?v=IOhnU_w3Us8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=4)*
+- *[Reference: Adding Vegetation](https://www.youtube.com/watch?v=IOhnU_w3Us8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=5)*
+- *[Reference: Removing Vegeation](https://www.youtube.com/watch?v=kzPEoRloKH8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=6)*
+- *[Reference: Terraforming Landscapes](https://www.youtube.com/watch?v=kzPEoRloKH8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=7)*
+- *[Reference: Overriding Ground Textures](https://www.youtube.com/watch?v=kzPEoRloKH8&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=14)*
+
+
 **Description**
 
 - Removal existing scenery
@@ -136,13 +143,16 @@ Polygon now appears in Scenery Editor
 - Scenery Editor > View > Gizom allows object adjustment
 - Scenery Editor > click on object > Duplicate creates a copy
 
-> **Note**
+> **Notes**
 >
 > Open the objects "Properties" window to adjust snapping to ground/normal.
+> Polygons are multi-purposes tools that serve various purposes.
 
 ---
 
 ### SimObjects
+
+*[Reference: Adding Sim Objects](https://www.youtube.com/watch?v=g_zcTM5xh4Y&list=PL_Up4sAmkCfXIOqIRzS9OpQEJRyW-rnoq&index=10)*
 
 **Description**
 
